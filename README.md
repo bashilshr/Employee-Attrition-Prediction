@@ -1,4 +1,5 @@
-Employee Attrition Prediction
+#Employee Attrition Prediction
+
 This project focuses on building a machine learning-based system to predict employee attrition using HR analytics data. The goal is to identify patterns and key factors that lead to employee churn and help companies retain valuable talent.
 
 📌 Project Overview
